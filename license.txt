@@ -1,0 +1,15 @@
+QuikAgenda
+
+LICENSE AND TERMS OF USE
+
+Copyright (C) Michael Wang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to copy, modify, merge, publish, distribute, sublicense, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+*The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+*When posting an assignment, I agree the assignment was assigned from MY teacher and that all the inforation about that assignment is accurate.
+
+*When deleting an assignment, I agree to only do so for the following reasons; That assignment has been overdue for at least a month and therfore is outdated, the assignment is very inaccurate, the assignment is no longer assignmed (Cancel).
+
+*THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
